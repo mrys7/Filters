@@ -1,5 +1,5 @@
 # Filters
-Program z GUI do modyfikacji obrazu za pomocą algorytmu wyrównującego histogram oraz filtru uśredniającego i filtru Gaussa.
+Program z GUI do modyfikacji obrazu za pomocą filtrów z lab. 8.
 ![](pic4.png)
 <h2>Instalacja</h2>
 <ol>
